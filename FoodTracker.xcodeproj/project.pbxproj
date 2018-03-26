@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE0F10E62068B1C60076351A /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE0F10E52068B1C60076351A /* Meal.swift */; };
 		DE6AF91E2064C3C20051B93E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6AF91D2064C3C20051B93E /* AppDelegate.swift */; };
 		DE6AF9202064C3C20051B93E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE6AF91F2064C3C20051B93E /* ViewController.swift */; };
 		DE6AF9232064C3C20051B93E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE6AF9212064C3C20051B93E /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DE0F10E52068B1C60076351A /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 		DE6AF91A2064C3C20051B93E /* FoodTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE6AF91D2064C3C20051B93E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE6AF91F2064C3C20051B93E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				DE6AF91F2064C3C20051B93E /* ViewController.swift */,
 				DE6AF93D2064E7E70051B93E /* RatingControl.swift */,
 				DE6AF9212064C3C20051B93E /* Main.storyboard */,
+				DE0F10E52068B1C60076351A /* Meal.swift */,
 				DE6AF9242064C3C20051B93E /* Assets.xcassets */,
 				DE6AF9262064C3C20051B93E /* LaunchScreen.storyboard */,
 				DE6AF9292064C3C20051B93E /* Info.plist */,
@@ -202,6 +205,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE0F10E62068B1C60076351A /* Meal.swift in Sources */,
 				DE6AF9202064C3C20051B93E /* ViewController.swift in Sources */,
 				DE6AF93E2064E7E70051B93E /* RatingControl.swift in Sources */,
 				DE6AF91E2064C3C20051B93E /* AppDelegate.swift in Sources */,
